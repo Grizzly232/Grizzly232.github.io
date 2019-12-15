@@ -1,0 +1,9 @@
+.col-sm-12 {
+    background-color: rgb(177, 218, 177);
+    border: 1px solid black;
+}
+
+.col-sm-6 {
+    background-color: rgb(170, 170, 230);
+    border: 1px solid black;
+}
